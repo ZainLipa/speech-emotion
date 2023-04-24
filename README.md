@@ -6,4 +6,4 @@ This model is designed to perform emotion recognition on voice audios. Using adv
 
 To get started with our software, simply upload your voice audio files to the platform and let our algorithms do the rest. 
 
-I hope you find our software helpful and insightful. If you have any questions or feedback, please don't hesitate to reach out to me.
+I hope you find this software helpful and insightful. If you have any questions or feedback, please don't hesitate to reach out to me.
