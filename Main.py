@@ -70,6 +70,7 @@ while stream.is_active():
 stream.stop_stream()
 stream.close()
 
-# Terminate PyAudio
+# Terminate PyAudio 
 p.terminate()
 
+lists = []
